@@ -1,117 +1,116 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+body {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    background-color: #fffdf3;
+    color: #2b2b2b;
+}
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+.cabecalho {
+    background: linear-gradient(90deg, #f6c445, #f2a900);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 30px;
+}
 
-    <link rel="stylesheet" href="style/style.css">
+.cabecalho-imagem {
+    width: 70px;
+}
 
-    <title>Agro Forte Futuro Sustentável</title>
-</head>
+.cabecalho-lista-item {
+    list-style: none;
+    font-weight: 600;
+    color: #1f1f1f;
+}
 
-<body>
+.menu-acessibilidade button {
+    margin: 3px;
+    border: none;
+    padding: 6px 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: #fff3c4;
+    font-weight: 600;
+}
 
-<header class="cabecalho">
-    <img class="cabecalho-imagem" src="logo.png" alt="logo agro">
+.agro {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px;
+    gap: 20px;
+    flex-wrap: wrap;
+}
 
-    <ul>
-        <li class="cabecalho-lista-item">Agro forte, futuro sustentável</li>
-        <li class="cabecalho-lista-item">Produzir com respeito à natureza</li>
-    </ul>
+.agro-div-conteudo {
+    max-width: 500px;
+}
 
-    <div id="acessibilidade" class="menu-acessibilidade">
-        <button id="botao-acessibilidade" class="btn btn-primary fw-bold rotacao-botao">Acessibilidade</button>
+.agro-titulo {
+    color: #d18f00;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
 
-        <div id="opcoes-acessibilidade" class="opcoes-acessibilidade apresenta-lista">
-            <button id="aumentar-fonte" class="btn btn-primary fw-bold">A+</button>
-            <button id="diminuir-fonte" class="btn btn-primary fw-bold">A-</button>
-            <button id="alterna-contraste" class="btn btn-primary fw-bold">Alto contraste</button>
-        </div>
-    </div>
-</header>
+.agro-texto-um,
+.agro-texto-dois {
+    font-size: 16px;
+    line-height: 1.6;
+}
 
-<section class="agro">
-    <div class="agro-div-conteudo">
-        <h2 class="agro-titulo">O que é o agro sustentável?</h2>
+.agro-imagem {
+    width: 320px;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
 
-        <p class="agro-texto-um">
-            O agro sustentável é um modelo de produção que busca equilibrar produtividade e preservação ambiental.
-            Ele utiliza tecnologias modernas para aumentar a eficiência sem destruir os recursos naturais.
-        </p>
+.estudante {
+    text-align: center;
+    padding: 40px;
+    background-color: #fff6d6;
+}
 
-        <p class="agro-texto-dois">
-            Esse sistema valoriza o solo, a água e a biodiversidade, garantindo produção para hoje e para o futuro.
-        </p>
-    </div>
+.estudante-titulo {
+    font-size: 26px;
+    color: #b87400;
+    margin-bottom: 30px;
+}
 
-    <img class="agro-imagem" src="img/agricultura1.jpg" alt="plantação sustentável">
-</section>
+.estudante-todos {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
 
-<section class="agro">
-    <div class="agro-div-conteudo">
-        <h2 class="agro-titulo">Tecnologia no campo</h2>
+.estudante-div {
+    background: #fff;
+    padding: 20px;
+    border-radius: 15px;
+    width: 200px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
 
-        <p class="agro-texto-um">
-            Hoje o campo usa drones, sensores e máquinas inteligentes para aumentar a produção com menos impacto ambiental.
-        </p>
+.estudante-imagem {
+    width: 100px;
+    border-radius: 50%;
+}
 
-        <p class="agro-texto-dois">
-            A tecnologia ajuda o produtor a economizar água, reduzir desperdício e melhorar a qualidade dos alimentos.
-        </p>
-    </div>
+.estudante-nome {
+    margin: 10px 0;
+}
 
-    <img class="agro-imagem" src="img/agricultura2.jpg" alt="tecnologia no campo">
-</section>
+.estudante-icone {
+    width: 25px;
+    margin: 5px;
+}
 
-<section class="agro">
-    <div class="agro-div-conteudo">
-        <h2 class="agro-titulo">Futuro da agricultura</h2>
+.rodape {
+    text-align: center;
+    padding: 20px;
+    background-color: #f2a900;
+}
 
-        <p class="agro-texto-um">
-            O futuro da agricultura está ligado à sustentabilidade, inovação e responsabilidade ambiental.
-        </p>
-
-        <p class="agro-texto-dois">
-            Com boas práticas, o agro pode alimentar o mundo sem destruir o planeta.
-        </p>
-    </div>
-
-    <img class="agro-imagem" src="img/agricultura3.jpg" alt="futuro da agricultura">
-</section>
-
-<section class="estudante">
-    <h2 class="estudante-titulo">Quem fez este projeto?</h2>
-
-    <div class="estudante-todos">
-
-        <div class="estudante-div">
-            <img class="estudante-imagem" src="perfil1.jpg" alt="estudante">
-            <h3 class="estudante-nome">Eloivane</h3>
-
-            <a href="#"><img class="estudante-icone" src="github.png" alt="github"></a>
-            <a href="#"><img class="estudante-icone" src="instagram.png" alt="instagram"></a>
-        </div>
-
-        <div class="estudante-div">
-            <img class="estudante-imagem" src="perfil2.jpg" alt="estudante">
-            <h3 class="estudante-nome">Projeto Agro</h3>
-
-            <a href="#"><img class="estudante-icone" src="github.png" alt="github"></a>
-            <a href="#"><img class="estudante-icone" src="instagram.png" alt="instagram"></a>
-        </div>
-
-    </div>
-</section>
-
-<footer class="rodape">
-    <img class="rodape-imagem" src="logo.png" alt="logo agro">
-</footer>
-
-<script src="main.js"></script>
-
-</body>
-</html>
+.rodape-imagem {
+    width: 80px;
+}
