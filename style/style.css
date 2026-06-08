@@ -1,7 +1,7 @@
 :root {
     --azul-escuro: #1877f2; /* cabeçalho e rodapé estilo Facebook */
     --azul-claro: #42a0ff; /* fundo das seções */
-    --branco: #ffffff;
+    --azul: #0c38d9;
     --preto: #000000;
 }
 
@@ -67,7 +67,7 @@ body {
 .agro-imagem {
     width: 30%;
     border-radius: 12px;
-    box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+    box-shadow: 0 6px 15px rgba(1, 10, 139, 0.988);
 }
 
 /* Rodapé */
