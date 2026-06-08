@@ -10,6 +10,7 @@ O projeto aborda temas como tecnologia no campo, preservação dos recursos natu
 
 ### galeria de imagens:
 plantação.jpg - retirada do site "wikimedia.commons" - Creative Commons Attribution-Share Alike 4.0
+colheita.jpg - retirada do site "wikimedia.commons" - Creative Commons Attribution-Share Alike 4.0
 
 
 ## O que você encontrará no site?
