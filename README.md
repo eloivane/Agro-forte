@@ -2,28 +2,33 @@
 
 ## Sobre o projeto
 
-Este site foi desenvolvido para apresentar a importância do agronegócio sustentável e mostrar como a produção agrícola pode crescer sem deixar de cuidar do meio ambiente.
+Este site foi desenvolvido para apresentar a importância da agricultura, das plantações sustentáveis e do trabalho dos agricultores para a sociedade.
 
-O projeto aborda temas como tecnologia no campo, preservação dos recursos naturais e o papel do agro na alimentação e na economia.
+O projeto mostra como a produção de alimentos está presente em nosso dia a dia e como o uso consciente dos recursos naturais pode contribuir para um futuro mais sustentável.
 
----colheita.jpg - retirada do site "wikimedia.commons" - Creative Commons Attribution-Share Alike 4.
+---
 
 ### galeria de imagens:
-plantação.jpg - retirada do site "wikimedia.commons" - Creative Commons Attribution-Share Alike 4.0
-colheita.jpg - retirada do site "wikimedia.commons" - Creative Commons Attribution-Share Alike 4.0
-agricultor.jpg - retirada do site "wikimedia.commons" - Creative Commons Attribution-Share Alike 4.0
 
+campos-agricolas.jpg - retirada do site "wikimedia.commons" - Creative Commons Attribution-Share Alike 4.0
 
+plantacao.jpg - retirada do site "wikimedia.commons" - Creative Commons Attribution-Share Alike 4.0
+
+agricultores.jpg - retirada do site "wikimedia.commons" - Creative Commons Attribution-Share Alike 4.0
+
+---
 
 ## O que você encontrará no site?
 
-🌱 Informações sobre agricultura sustentável
+🌾 Informações sobre os campos agrícolas
 
-🚜 Tecnologia aplicada ao campo
+🌱 Conteúdo sobre plantações sustentáveis
+
+👨‍🌾 Informações sobre o trabalho dos agricultores
 
 💧 Uso consciente dos recursos naturais
 
-🌎 A importância da preservação ambiental
+🌎 Importância da sustentabilidade no campo
 
 📱 Interface adaptada para diferentes dispositivos
 
@@ -52,11 +57,11 @@ O site possui ferramentas que ajudam a tornar a navegação mais confortável pa
 
 ## Por que falar sobre esse tema?
 
-O agronegócio faz parte da vida de todos nós. Os alimentos consumidos diariamente dependem do trabalho realizado no campo.
+A agricultura é uma atividade essencial para a vida humana. É através dela que são produzidos alimentos, matérias-primas e diversos recursos utilizados diariamente pela população.
 
-Ao mesmo tempo, é importante que a produção aconteça de forma responsável, preservando o solo, a água e os demais recursos naturais para as futuras gerações.
+Os agricultores desempenham um papel fundamental nesse processo, dedicando seu trabalho ao cultivo das lavouras e à produção de alimentos. Ao mesmo tempo, é importante que a produção agrícola aconteça de forma responsável, preservando o solo, a água e o meio ambiente.
 
-Por isso, o tema **"Agro Forte, Futuro Sustentável"** busca mostrar que desenvolvimento e preservação podem caminhar juntos.
+Por isso, o tema **"Agro Forte, Futuro Sustentável"** busca mostrar que desenvolvimento, tecnologia e sustentabilidade podem caminhar juntos.
 
 ---
 
@@ -83,6 +88,6 @@ Turvo - Paraná
 
 ## Considerações finais
 
-A construção deste projeto permitiu ampliar conhecimentos sobre programação, sustentabilidade e a importância do agronegócio para a sociedade.
+A construção deste projeto permitiu ampliar os conhecimentos sobre agricultura, sustentabilidade e tecnologia aplicada ao campo.
 
-Pequenas ações no presente podem contribuir para um futuro mais sustentável para todos.
+Com pequenas ações e práticas conscientes, é possível produzir alimentos, preservar os recursos naturais e contribuir para um futuro mais sustentável para todos.
