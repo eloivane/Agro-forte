@@ -6,11 +6,13 @@ Este site foi desenvolvido para apresentar a importância do agronegócio susten
 
 O projeto aborda temas como tecnologia no campo, preservação dos recursos naturais e o papel do agro na alimentação e na economia.
 
----
+---colheita.jpg - retirada do site "wikimedia.commons" - Creative Commons Attribution-Share Alike 4.
 
 ### galeria de imagens:
 plantação.jpg - retirada do site "wikimedia.commons" - Creative Commons Attribution-Share Alike 4.0
 colheita.jpg - retirada do site "wikimedia.commons" - Creative Commons Attribution-Share Alike 4.0
+agricultor.jpg - retirada do site "wikimedia.commons" - Creative Commons Attribution-Share Alike 4.0
+
 
 
 ## O que você encontrará no site?
